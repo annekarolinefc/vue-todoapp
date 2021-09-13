@@ -7,7 +7,7 @@ import Button from "primevue/button"
 import InputText from "primevue/inputtext";
 
 //Importando o Tema da aplicação
-//import "primevue/resources/themes/saga-blue";
+import "primevue/resources/themes/saga-blue/theme.css";
 //Importando o CSS
 import "primevue/resources/primevue.min.css";
 //Importando os icones
