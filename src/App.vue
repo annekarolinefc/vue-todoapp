@@ -3,10 +3,15 @@
 </template>
 
 <script>
-
+//Importandos os componentes criados
+import TodoList from "./components/TodoList.vue";
+import TodoItem from "./components/TodoItem.vue";
 
 export default {
-
+  components:{
+    TodoList,
+    TodoItem
+  }
 }
 </script>
 
